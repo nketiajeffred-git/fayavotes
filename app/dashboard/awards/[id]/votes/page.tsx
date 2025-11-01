@@ -172,7 +172,7 @@ export default function VotesPage() {
               >
                 <option>All categories</option>
                 <option>Best Male Student of the year</option>
-                <option>Best Departmental Women's Commissioner</option>
+                <option>Best Departmental Women&apos;s Commissioner</option>
                 <option>Best Course Rep of the year</option>
               </select>
 

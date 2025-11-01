@@ -138,7 +138,7 @@ export default function LoginPage() {
             </form>
 
             <p className="mt-6 text-center text-sm text-gray-600">
-              Don't have an account?{' '}
+              Don&apos;t have an account?{' '}
               <a href="#" className="text-primary font-semibold hover:underline">
                 Contact us
               </a>
